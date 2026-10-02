@@ -1,18 +1,97 @@
-# 💫 About Me:
-🔭 I’m currently working on  <br>Building scalable backend systems and AI-powered platforms—recently architected REST APIs at Kartzia and developed Liftoff Interviews, a mock interview platform with real-time AI feedback.<br><br>👯 I’m looking to collaborate on  <br>Open-source projects in Next.js, AI/ML integrations, and developer workflow optimization. I enjoy teaming up for hackathons and competitive programming challenges.<br><br>🤝 I’m looking for help with  <br>Exploring advanced cloud-native architectures (Kubernetes, AWS) and fine-tuning performance optimization strategies for large-scale web apps.<br><br>🌱 I’m currently learning  <br>Cutting-edge frontend performance techniques, deeper system design principles, and scaling AI-driven applications for production environments.<br><br>💬 Ask me about  <br>Competitive programming (DSA, graph theory, DP), backend optimization, full-stack development with Next.js, or integrating APIs like Stripe and OpenAI.<br><br>⚡ Fun fact  <br>I’ve mentored 200+ students in competitive programming while also solving 300+ problems on LeetCode—so I thrive both as a learner and a teacher.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="./banner-light.svg">
+    <img src="./banner.svg" alt="Abhigyan Jaiswal — Full-Stack Developer" width="100%">
+  </picture>
+</p>
 
+<table>
+<tr>
+<td width="340" align="center" valign="top">
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abhigyan.jaiswal) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abhigyan-jaiswal-6490a) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Abhigyan_jais) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhigyanjaiswal14@gmail.com) 
+<img src="./lanyard.svg" alt="Abhigyan Jaiswal ID badge" width="320">
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=AbhigyanJaiswal&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=AbhigyanJaiswal&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=AbhigyanJaiswal&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</td>
+<td valign="top">
 
----
-[![](https://komarev.com/ghpvc/?username=AbhigyanJaiswal&icon=0&color=0)](https://visitcount.itsvg.in)
+### 🚀 Featured Projects
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+| 🛠️ Project | 💻 Tech | 🔗 Links |
+| :-- | :-- | :-- |
+| **🎤 Liftoff Interviews** — AI mock-interview platform with real-time feedback & Whisper transcription | `Next.js` `OpenAI` `Redis` `FFmpeg` | [Code](https://github.com/AbhigyanJaiswal/liftoff) · [Live](https://liftoff-1et5e4lui-abhigyan-jaiswals-projects-3132429f.vercel.app/) |
+| **🛒 QuickCart** — Full-stack e-commerce, SSR, Stripe checkout, 35% faster FCP | `Next.js 14` `Stripe` `MongoDB` `Redux` | [Code](https://github.com/AbhigyanJaiswal/QuickCart) · [Live](https://quick-cart-six-umber.vercel.app/) |
+
+### 💼 Experience
+
+| 🏢 Company | 🎯 Role | 📅 When |
+| :-- | :-- | :-- |
+| **Omnicare Diagnostics** (London, UK · Remote) | Software Developer | May 2026 – Present |
+| **Kartzia Pvt. Ltd.** (Remote) | Backend Developer Intern | Jan – Mar 2026 |
+| **TechieHelp** (Remote) | Frontend Developer Intern | Sep – Oct 2025 |
+
+> 💜 *"Ship fast, optimize later, solve problems daily."*
+
+</td>
+</tr>
+</table>
+
+### 🧰 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,ts,py,c,react,nextjs,tailwind,nodejs,express,django,graphql&perline=12" alt="languages and frameworks"><br>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,aws,docker,kubernetes,vercel,git,postman&perline=12" alt="databases and devops">
+</p>
+
+### 📊 GitHub Stats & Graphs
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=AbhigyanJaiswal&show_icons=true&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=8b5cf6&text_color=e2e8f0&count_private=true" alt="GitHub Stats">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhigyanJaiswal&layout=compact&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=e2e8f0" alt="Top Languages">
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AbhigyanJaiswal&theme=radical&hide_border=true&background=0d1117&ring=22d3ee&fire=e879f9&currStreakLabel=8b5cf6" alt="GitHub Streak">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhigyanJaiswal&bg_color=0d1117&color=22d3ee&line=8b5cf6&point=e879f9&area=true&area_color=8b5cf6&hide_border=true&custom_title=Contribution%20Graph%20%F0%9F%93%88" alt="Contribution graph">
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AbhigyanJaiswal&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies">
+</p>
+
+### 🧩 LeetCode
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/AbhigyanJaiswal?theme=dark&font=Karma&ext=heatmap" alt="LeetCode stats">
+</p>
+
+- 🏆 Contest rating **1785** · Global Rank **165** / 41,000+ in Biweekly Contest 175
+- ✅ **500+** problems solved · Top 1500 Google THE BIG CODE 2026 · AIR 264 & 459 CODEQUEST
+- 👨‍🏫 Mentored **200+ students** as Competitive Programming Lead, Binary Brains Society
+
+### 🐍 Watch the snake eat my contributions
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbhigyanJaiswal/AbhigyanJaiswal/output/github-snake-dark.svg">
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/AbhigyanJaiswal/AbhigyanJaiswal/output/github-snake.svg">
+  </picture>
+</p>
+
+### 📫 Let's Connect
+
+<p align="center">
+  <a href="mailto:abhigyanjaiswal14@gmail.com"><img src="https://img.shields.io/badge/Email-22d3ee?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/abhigyan-jaiswal-6490a133a/"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/AbhigyanJaiswal"><img src="https://img.shields.io/badge/GitHub-8b5cf6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://leetcode.com/AbhigyanJaiswal"><img src="https://img.shields.io/badge/LeetCode-ffa116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"></a>
+  <a href="https://abhigyanjaiswal.github.io/PortFolio/"><img src="https://img.shields.io/badge/Portfolio-e879f9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AbhigyanJaiswal&color=8b5cf6&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views">
+</p>
+
+<p align="center"><i>⭐️ Always learning, always building.</i> 💜</p>
