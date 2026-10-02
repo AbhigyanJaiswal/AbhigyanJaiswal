@@ -54,11 +54,15 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhigyanJaiswal&bg_color=0d1117&color=22d3ee&line=8b5cf6&point=e879f9&area=true&area_color=8b5cf6&hide_border=true&custom_title=Contribution%20Graph%20%F0%9F%93%88" alt="Contribution graph">
+  <img src="https://ghchart.rshah.org/8b5cf6/AbhigyanJaiswal" alt="Contribution graph" width="90%">
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AbhigyanJaiswal&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies">
+  <img src="https://img.shields.io/badge/LeetCode-1785_Rating-ffa116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode rating">
+  <img src="https://img.shields.io/badge/Global_Rank-165-8b5cf6?style=for-the-badge" alt="Global rank">
+  <img src="https://img.shields.io/badge/500%2B-Problems_Solved-22d3ee?style=for-the-badge" alt="Problems solved">
+  <img src="https://img.shields.io/badge/CODEQUEST-AIR_264-e879f9?style=for-the-badge" alt="CodeQuest">
+  <img src="https://img.shields.io/badge/Google_BIG_CODE_2026-Top_1500-4285f4?style=for-the-badge" alt="Google Big Code">
 </p>
 
 ### 🧩 LeetCode
